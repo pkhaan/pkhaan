@@ -4,7 +4,7 @@
 
 ---
 
-### :trollface:: About Me :
+### trollface
 
 
 
