@@ -7,7 +7,7 @@
 ### :trollface:
 
 
-[![Pkhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhaan)](https://github.com/pkhaan/github-readme-stats)
+[![Pkhaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhaan&count_private=true&show_icons=true&theme=radical)](https://github.com/pkhaan/github-readme-stats)
 
 
 
