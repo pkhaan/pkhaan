@@ -6,7 +6,7 @@
 
 ### :trollface:
 
-### coding random stuff and **BING CHILLING**
+### coding random stuff and ***BING CHILLING***
 #### Groovy! ~Duke Nukem
 ##### .....don't even know......
 
