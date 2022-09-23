@@ -5,8 +5,9 @@
 ---
 
 ### :trollface:
-
-### coding random stuff and ***BING CHILLING***
+### *Petros* here
+### coding the shit out of everything
+### and in general ***BING CHILLING***
 #### Groovy! ~Duke Nukem
 ##### .....don't even know......
 
