@@ -12,7 +12,7 @@
 <[>>+[[>>+<<-]<<]>>>>[[<<+>.>-]>>]<.<<<+<<-]>>[<.>--]>.>>.
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhaan&layout=compact&theme=synthwave&count_private=true)](https://github.com/pkhaan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhaan&layout=compact&theme=synthwave&count_private=true)](https://github.com/pkhaan/github-readme-stats)
 
 
 
